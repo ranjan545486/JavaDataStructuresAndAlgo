@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad993ca-d3b5-4975-ae72-b7db8bc4b578" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/PalindromeNo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/PascalTriangle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedList/FlipBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/FlipBinaryTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/tryingsomething/StackPrac.java" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/StackPrac.java" />
     </list>
     <ignored path="dsandalgopract.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -146,6 +142,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ranjan" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -894,6 +895,14 @@
       <option name="presentableId" value="Default" />
       <updated>1468480427589</updated>
     </task>
+    <task id="LOCAL-00001" summary="more changes&#10;">
+      <created>1470417975268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470417975268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -946,6 +955,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="more changes&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="more changes&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
