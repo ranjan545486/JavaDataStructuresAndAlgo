@@ -2,50 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad993ca-d3b5-4975-ae72-b7db8bc4b578" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_core_2_17_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_jackson_2_17_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Arrays/ArrayRotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/LongestCommonSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/LongestCommonSubstring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/JohnSmithPercent20.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/MultiPutBlockingBoundedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/MultiPutBlockingQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Networking/ValidateIP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/PalindromePermutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/LongestPalindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordBreak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/BTIsBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/HeightOfBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/LowestCommonAncestor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/SwapNodesHackerRank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/TopViewTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/other/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/other/ParseMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/LinkedListIsPalindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/Nodel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/ZigZagTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/ArraysPractice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/LinkedListHackerRank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/PracLL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/SwapNodesAlgo.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/bc/Mapping.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/bc/Romans2Integer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/bc/Romans2Integer.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/bc/Mapping.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/brokencranium/Mapping.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/bc/Romans2Integer.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/brokencranium/Romans2Integer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/CanbePlaced.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/CanbePlaced.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/PalindeRomeDP.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/PalindeRomeDP.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedList/BinaryTreeToDLL.class" afterPath="$PROJECT_DIR$/target/classes/LinkedList/BinaryTreeToDLL.class" />
@@ -53,13 +9,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedList/Node.class" afterPath="$PROJECT_DIR$/target/classes/LinkedList/Node.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tryingsomething/StackPrac.class" afterPath="$PROJECT_DIR$/target/classes/tryingsomething/StackPrac.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dsandalgopract.iml" afterPath="$PROJECT_DIR$/dsandalgopract.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/PalindeRomeDP.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/PalindeRomeDP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedList/BinaryTreeToDLL.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/BinaryTreeToDLL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedList/FlipBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/FlipBinaryTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/tryingsomething/PascalTriangle.java" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/PascalTriangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/tryingsomething/StackPrac.java" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/StackPrac.java" />
     </list>
     <ignored path="dsandalgopract.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1223,7 +1172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1470420624605</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="more changes&#10;">
+      <created>1471124797493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1471124797493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
