@@ -1,4 +1,4 @@
-package LinkedInQuestions.bc;
+package LinkedInQuestions.brokencranium;
 
 import java.util.ArrayList;
 import java.util.List;

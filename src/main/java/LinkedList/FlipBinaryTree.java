@@ -80,19 +80,48 @@ public BinaryTree flipTreeRecursive(BinaryTree root, BinaryTree left, BinaryTree
 
     public void levelOrderQueue(BinaryTree root){
         Queue q = (Queue) new LinkedList();
+
         int levelNodes =0;
         if(root==null) return;
         q.add(root);
         while(!q.isEmpty()){
-            levelNodes = q.size();
-            while(levelNodes>0){
+            //levelNodes = q.size();
+           // while(levelNodes>0){
                 BinaryTree n = (BinaryTree)q.remove();
                 System.out.print(" " + n.data);
                 if(n.left!=null) q.add(n.left);
                 if(n.right!=null) q.add(n.right);
-                levelNodes--;
+               // levelNodes--;
+            //}
+            //System.out.println("");
+        }
+    }
+
+    /*
+
+   class Node
+      int data;
+      Node left;
+      Node right;
+  */
+    void LevelOrder(Node root)
+    {
+        if(root == null){
+            return;
+        }
+
+        Queue q = (Queue)new LinkedList();
+        q.add(root);
+        while(!q.isEmpty()){
+            Node n = (Node)q.remove();
+            System.out.print(n.data + " ");
+            if(n.left!=null){
+                q.add(n.left);
             }
-            System.out.println("");
+
+            if(n.right!=null){
+                q.add(n.right);
+            }
         }
     }
 
