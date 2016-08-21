@@ -8,6 +8,8 @@ public class Node {
     Node left;
     Node right;
 
+    public Node(){}
+
     public Node(int i) {
         this.data = i;
     }

@@ -1,6 +1,8 @@
 package LinkedList;
 
+import java.util.LinkedList;
 import java.util.Queue;
+import java.util.concurrent.LinkedBlockingDeque;
 
 /**
  * Created by rmukherj on 7/30/16.
@@ -56,7 +58,10 @@ public BinaryTree flipTreeRecursive(BinaryTree root, BinaryTree left, BinaryTree
     root.right = left;
     return newRoot;
 }
-
+    public int height(BinaryTree root){
+        if (root==null) return 0;
+        return 1 + Math.max(height(root.left),height(root.right));
+    }
 
     public void levelOrderNaiveApproach(BinaryTree root){
         int h = height(root);
@@ -73,13 +78,10 @@ public BinaryTree flipTreeRecursive(BinaryTree root, BinaryTree left, BinaryTree
             printLevels(root.right,h-1);
         }
     }
-    public int height(BinaryTree root){
-        if (root==null) return 0;
-        return 1 + Math.max(height(root.left),height(root.right));
-    }
+
 
     public void levelOrderQueue(BinaryTree root){
-        Queue q = (Queue) new LinkedList();
+        Queue<BinaryTree> q = new LinkedList<BinaryTree>();
 
         int levelNodes =0;
         if(root==null) return;
@@ -97,6 +99,31 @@ public BinaryTree flipTreeRecursive(BinaryTree root, BinaryTree left, BinaryTree
         }
     }
 
+    private static void levelOrderTraversal(BinaryTree root) {
+        BinaryTree temp;
+        Queue<BinaryTree> q = new LinkedBlockingDeque<BinaryTree>();
+        q.add(root);
+        q.add(new BinaryTree(-1));
+        while (!q.isEmpty()) {
+            temp = q.poll();
+
+            if (temp.data == -1) {
+                System.out.println();
+                if (!q.isEmpty())
+                    q.add(new BinaryTree(-1));
+
+            } else {
+                System.out.print(temp.data);
+                if (temp.left != null)
+                    q.add(temp.left);
+                if (temp.right != null)
+                    q.add(temp.right);
+            }
+        }
+
+    }
+
+
     /*
 
    class Node
@@ -104,26 +131,26 @@ public BinaryTree flipTreeRecursive(BinaryTree root, BinaryTree left, BinaryTree
       Node left;
       Node right;
   */
-    void LevelOrder(Node root)
-    {
-        if(root == null){
-            return;
-        }
-
-        Queue q = (Queue)new LinkedList();
-        q.add(root);
-        while(!q.isEmpty()){
-            Node n = (Node)q.remove();
-            System.out.print(n.data + " ");
-            if(n.left!=null){
-                q.add(n.left);
-            }
-
-            if(n.right!=null){
-                q.add(n.right);
-            }
-        }
-    }
+//    void LevelOrder(Node root)
+//    {
+//        if(root == null){
+//            return;
+//        }
+//
+//        Queue q = (Queue)new LinkedList();
+//        q.add(root);
+//        while(!q.isEmpty()){
+//            Node n = (Node)q.remove();
+//            System.out.println(n.data + " ");
+//            if(n.left!=null){
+//                q.add(n.left);
+//            }
+//
+//            if(n.right!=null){
+//                q.add(n.right);
+//            }
+//        }
+//    }
 
     public static BinaryTree Reverse(BinaryTree root){
         if(root == null){
@@ -144,15 +171,27 @@ public BinaryTree flipTreeRecursive(BinaryTree root, BinaryTree left, BinaryTree
 //        tree.left.right = new BinaryTree(25);
 //        tree.right.left = new BinaryTree(30);
 //        tree.right.right = new BinaryTree(35);
+//        BinaryTree tree = new BinaryTree(1);
+//        tree.left = new BinaryTree(2);
+//        tree.right = new BinaryTree(3);
+//        tree.left.left = new BinaryTree(4);
+//        tree.left.right = new BinaryTree(5);
+//       // tree.right.left = new BinaryTree(30);
+//       // tree.right.right = new BinaryTree(35);
+//        tree.left.left.left = new BinaryTree(6);
+//        tree.left.left.right = new BinaryTree(7);
+
         BinaryTree tree = new BinaryTree(1);
-        tree.left = new BinaryTree(2);
-        tree.right = new BinaryTree(3);
-        tree.left.left = new BinaryTree(4);
-        tree.left.right = new BinaryTree(5);
-       // tree.right.left = new BinaryTree(30);
-       // tree.right.right = new BinaryTree(35);
-        tree.left.left.left = new BinaryTree(6);
-        tree.left.left.right = new BinaryTree(7);
+        tree.left = new BinaryTree(3);
+        tree.right = new BinaryTree(5);
+        tree.left.left = new BinaryTree(2);
+        tree.left.right = new BinaryTree(4);
+        tree.right.right = new BinaryTree(7);
+        // tree.right.left = new BinaryTree(30);
+        // tree.right.right = new BinaryTree(35);
+        tree.left.left.left = new BinaryTree(9);
+        tree.left.left.right = new BinaryTree(6);
+        tree.left.right.right = new BinaryTree(8);
 
         FlipBinaryTree bt = new FlipBinaryTree();
         int h = bt.height(tree);
@@ -161,9 +200,11 @@ public BinaryTree flipTreeRecursive(BinaryTree root, BinaryTree left, BinaryTree
         //tree = bt.flipTree(tree);
         //tree = inverse(tree);0
        // tree = flippityFlip(tree);
-        tree = bt.flipTreeRecursive(tree, null, null,null);
+       // tree = bt.flipTreeRecursive(tree, null, null,null);
      //   bt.printLevels(tree, h);
-        bt.levelOrderNaiveApproach(tree);
+       // bt.levelOrderNaiveApproach(tree);
+       // bt.levelOrderQueue(tree);
+        bt.levelOrderTraversal(tree);
 
     }
 

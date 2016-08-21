@@ -4,10 +4,11 @@ package LinkedInQuestions.Trees;
  * Created by rmukherj on 8/10/16.
  */
 class TreeNode {
-    private int data;
-    private TreeNode left;
-    private TreeNode right;
+    public int data;
+    public TreeNode left;
+    public TreeNode right;
 
+    TreeNode(){}
     TreeNode(int data) {
         this.data = data;
     }

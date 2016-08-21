@@ -4,8 +4,10 @@ import java.util.*;
 
 /**
  * Created by rmukherj on 8/5/16.
- * There is a new alien language which uses the latin alphabet. The order is unknown. You receieve a list
- * of words from the dictionary where words are sorted lexicographically by the rules of this new language.
+ * There is a new alien language which uses the latin alphabet. The order is unknown.
+ * You receieve a list
+ * of words from the dictionary where words are sorted lexicographically by the rules of
+ * this new language.
  * Given the following words in the dictionary
  * [
  *      "wrt",
@@ -47,7 +49,27 @@ public class AlienDictionary {
         return sb.toString();
 
 
-}
+    }
+
+    private void connectGraph(Map<Character, Set<Character>> graph, String prev, String curr) {
+        if(prev == null || curr == null){
+            return;
+        }
+
+        int len = Math.min(prev.length(), curr.length());
+
+        for(int i=0;i<len;i++){
+            char p = prev.charAt(i);
+            char q = curr.charAt(i);
+            if(p!=q){
+                if(!graph.get(p).contains(q)){
+                    graph.get(p).add(q);
+                }
+                break;
+            }
+        }
+    }
+
 
     private boolean topologicalSort(char vertexId, Map<Character, Set<Character>> graph, StringBuffer sb, Map<Character, Integer> visited) {
         if(visited.containsKey(vertexId)){
@@ -77,24 +99,6 @@ public class AlienDictionary {
 
     }
 
-    private void connectGraph(Map<Character, Set<Character>> graph, String prev, String curr) {
-        if(prev == null || curr == null){
-            return;
-        }
-
-        int len = Math.min(prev.length(), curr.length());
-
-        for(int i=0;i<len;i++){
-            char p = prev.charAt(i);
-            char q = curr.charAt(i);
-            if(p!=q){
-                if(!graph.get(p).contains(q)){
-                    graph.get(p).add(q);
-                }
-                break;
-            }
-        }
-    }
 
     public static void main(String[] args){
         AlienDictionary al = new AlienDictionary();

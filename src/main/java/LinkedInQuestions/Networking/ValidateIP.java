@@ -41,9 +41,21 @@ public class ValidateIP {
         private static final Pattern PATTERN = Pattern.compile(
                 "^(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.){3}([01]?\\d\\d?|2[0-4]\\d|25[0-5])$");
 
-    public static boolean validate(final String ip) {
+        public static boolean validate(final String ip) {
         return PATTERN.matcher(ip).matches();
     }
+
+    /*String IPADDRESS_PATTERN =
+            "(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)";
+
+    Pattern pattern = Pattern.compile(IPADDRESS_PATTERN);
+    Matcher matcher = pattern.matcher(ipString);
+        if (matcher.find()) {
+        return matcher.group();
+    }
+        else{
+        return "0.0.0.0";
+    }*/
 
         public static void main(String[] args) {
             String ip1 = "128.0.0.1";

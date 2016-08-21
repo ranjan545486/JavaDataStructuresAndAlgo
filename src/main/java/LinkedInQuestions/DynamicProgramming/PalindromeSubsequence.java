@@ -1,4 +1,4 @@
-package LinkedInQuestions;
+package LinkedInQuestions.DynamicProgramming;
 
 /**
  * Created by rmukherj on 7/29/16.
