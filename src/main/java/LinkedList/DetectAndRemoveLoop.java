@@ -77,11 +77,11 @@ public class DetectAndRemoveLoop {
         list.head.next = new Node(20);
         list.head.next.next = new Node(15);
         list.head.next.next.next = new Node(4);
-        list.head.next.next.next.next = new Node(10);
+        list.head.next.next.next.next = new Node(15);
 
         // Creating a loop for testing
         list.printList(head);
-        head.next.next.next= head.next.next;
+         head.next.next.next= head.next.next;
         list.detectAndRemoveLoop(head);
         System.out.println("Linked List after removing loop : ");
         list.printList(head);
