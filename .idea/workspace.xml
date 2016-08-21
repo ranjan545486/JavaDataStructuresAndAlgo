@@ -2,103 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad993ca-d3b5-4975-ae72-b7db8bc4b578" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Arrays/FisherYates.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Bitwise/OperationsUsingBinary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/DynamicProgramming/ClimbStairs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/DynamicProgramming/CoinsInaLine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/DynamicProgramming/KnightTour.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/DynamicProgramming/LongestIncreasingSubsequence.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/AllPathBetweenTwoNodes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/BFSMinimum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/Data.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/DijkstraAlgo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/Edge.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/FindAllPaths.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/GraphFindAllPaths.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/Pair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/Tuple.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/Vertex.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/WordLadder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/WordLadderOneWay.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/WordLadderOneWayBFS.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Graphs/WordNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Stacks/ReversePolishNotation$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Stacks/ReversePolishNotation$1$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Stacks/ReversePolishNotation$1$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Stacks/ReversePolishNotation$1$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Stacks/ReversePolishNotation$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Stacks/ReversePolishNotation$OperatorIC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Stacks/ReversePolishNotation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Strings/Anagram.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Strings/SubstrLength.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Strings/WordBreak.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Strings/WordBreakUsingTrie$Trie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Strings/WordBreakUsingTrie$TrieNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Strings/WordBreakUsingTrie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Strings/WordLadderShortestPath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/other/SquareRoot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tryingsomething/_8Queen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Arrays/FisherYates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Arrays/GeneratePermutations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Arrays/PointsOnAPlane.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Arrays/PointsOnAPlaneImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Bitwise/OperationsUsingBinary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/ClimbStairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/CoinsInaLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/KnightTour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/LongestIncreasingSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/MaxPalindromeSubset.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/AllPathsBetweenNodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/BFSMinimum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/Data.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/DijkstraAlgo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/GraphFindAllPaths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/WordLadder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/WordLadderOneWayBFS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/InfluenceFinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/IntervalImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/IntervalsImp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/PriorityQueue/MergeKSortedLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/PriorityQueue/PriorityQueueTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/SortingAndSearching/CountingSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/SortingAndSearching/RadixSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/SortingAndSearching/TripletTriangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Stacks/ReversePolishNotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/Anagram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/SubstrLength.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordBreakUsingTrie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordLadderShortestPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/ChildParentBT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/SortedArrayToBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/other/Interval.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/other/SquareRoot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tryingsomething/_8Queen.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/CanPlaceFlowers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/CanPlaceFlowers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/PalindeRomeDP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/PalindromeSubsequence.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/PalindeRomeDP.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/PalindeRomeDP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/PalindromeSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/PalindromeSubsequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/AlienDictionary.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/AlienDictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/CanbePlaced.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/CanbePlaced.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Networking/ValidateIP.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Networking/ValidateIP.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Trees/BTIsBST.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Trees/BTIsBST.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Trees/TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Trees/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/brokencranium/Romans2Integer.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/brokencranium/Romans2Integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedList/FlipBinaryTree$BinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/LinkedList/FlipBinaryTree$BinaryTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedList/FlipBinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/LinkedList/FlipBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Trees/ChildParentBT.class" afterPath="$PROJECT_DIR$/target/classes/LinkedInQuestions/Trees/ChildParentBT.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LinkedList/DetectAndRemoveLoop.class" afterPath="$PROJECT_DIR$/target/classes/LinkedList/DetectAndRemoveLoop.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dsandalgopract.iml" afterPath="$PROJECT_DIR$/dsandalgopract.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/AlienDictionary.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/AlienDictionary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Networking/ValidateIP.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Networking/ValidateIP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordBreak.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordBreak.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/BTIsBST.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/BTIsBST.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/Node.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/TreeNode.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/TreeNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LinkedList/FlipBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/FlipBinaryTree.java" />
     </list>
     <ignored path="dsandalgopract.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,114 +34,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HeightOfBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/HeightOfBinaryTree.java">
+      <file leaf-file-name="DetectAndRemoveLoop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/DetectAndRemoveLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="1190">
+              <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxPalindromeSubset.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/MaxPalindromeSubset.java">
+      <file leaf-file-name="Question.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 05. Bit Manipulation/Q5_08_Draw_Line/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TripletTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/SortingAndSearching/TripletTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1220">
-              <caret line="227" column="31" selection-start-line="227" selection-start-column="31" selection-end-line="227" selection-end-column="31" />
-              <folding>
-                <element signature="method#getTriangleSides#0;class#TriangleImpl#0" expanded="false" />
-                <element signature="method#isTriplet#0;class#TriangleImpl#0" expanded="false" />
-                <element signature="method#mergeParts#0;class#TriangleImpl#0" expanded="false" />
-                <element signature="method#quickSort#0;class#TriangleImpl#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interval.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/other/Interval.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1395">
-              <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChildParentBT.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/ChildParentBT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1310">
-              <caret line="149" column="7" selection-start-line="107" selection-start-column="4" selection-end-line="149" selection-end-column="7" />
-              <folding>
-                <element signature="e#902#908#0" expanded="true" />
-                <element signature="e#1864#1893#0" expanded="true" />
-                <element signature="e#2250#2260#0" expanded="true" />
-                <element signature="e#2460#2466#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LowestCommonAncestor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/LowestCommonAncestor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="49" column="5" selection-start-line="31" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopViewTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/TopViewTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-376">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwapNodesHackerRank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/SwapNodesHackerRank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-767">
-              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="275">
+              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="46" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -276,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Arrays/ArrayRotation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordBreakUsingTrie.java" />
         <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordBreak.java" />
         <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/AllPathsBetweenNodes.java" />
         <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/ClimbStairs.java" />
@@ -327,6 +138,8 @@
         <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/ChildParentBT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionH.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LinkedList/DetectAndRemoveLoop.java" />
       </list>
     </option>
   </component>
@@ -959,11 +772,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DynamicProgramming" />
+              <option name="myItemId" value="Graphs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PalindromeSubsequence.java" />
+              <option name="myItemId" value="BFSMinimum.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -993,7 +806,161 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DynamicProgramming" />
+              <option name="myItemId" value="brokencranium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkedInQuestions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bitwise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch 05. Bit Manipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch 05. Bit Manipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sample_Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dsandalgopract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch 05. Bit Manipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Q5_08_Draw_Line" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1008,7 +975,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ebs-doc-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CtCI/CtCI-6th-Edition/Java" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -1020,87 +987,7 @@
       <recent name="LinkedInQuestions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChildParentBT">
-    <configuration default="false" name="PalindeRomeDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LinkedInQuestions.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LinkedInQuestions.DynamicProgramming.PalindeRomeDP" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="dsandalgopract" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MaxPalindromeSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LinkedInQuestions.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LinkedInQuestions.DynamicProgramming.MaxPalindromeSubset" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="dsandalgopract" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PalindromeSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LinkedInQuestions.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LinkedInQuestions.DynamicProgramming.PalindromeSubsequence" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="dsandalgopract" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TriangleImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LinkedInQuestions.SortingAndSearching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LinkedInQuestions.SortingAndSearching.TriangleImpl" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="dsandalgopract" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Question (1)">
     <configuration default="false" name="ChildParentBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1109,6 +996,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="LinkedInQuestions.Trees.ChildParentBT" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dsandalgopract" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Q10_03_Search_in_Rotated_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Q10_03_Search_in_Rotated_Array.Question" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dsandalgopract" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuestionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Q16_02_Word_Frequencies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Q16_02_Word_Frequencies.QuestionA" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dsandalgopract" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DetectAndRemoveLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="LinkedList.DetectAndRemoveLoop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dsandalgopract" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Question (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Q5_08_Draw_Line.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Q5_08_Draw_Line.Question" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1439,19 +1406,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PalindeRomeDP" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MaxPalindromeSubset" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PalindromeSubsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TriangleImpl" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ChildParentBT" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ChildParentBT" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Question" />
+      <item index="2" class="java.lang.String" itemvalue="Application.QuestionA" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DetectAndRemoveLoop" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Question (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ChildParentBT" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TriangleImpl" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MaxPalindromeSubset" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PalindromeSubsequence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PalindeRomeDP" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Question (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DetectAndRemoveLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.QuestionA" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Question" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ChildParentBT" />
       </list>
     </recent_temporary>
   </component>
@@ -1523,7 +1490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471125448248</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="more changes&#10;">
+      <created>1471761680168</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1471761680168</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1537,7 +1511,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32742155" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1546,8 +1520,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18553889" sideWeight="0.5266559" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07367668" sideWeight="0.4939759" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17655173" sideWeight="0.47334412" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32469305" sideWeight="0.47738287" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21793103" sideWeight="0.47334412" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32413793" sideWeight="0.47738287" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32348806" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1875,7 +1849,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="77" />
+      <option name="time" value="78" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1884,149 +1858,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1502">
-          <caret line="169" column="11" selection-start-line="169" selection-start-column="11" selection-end-line="169" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/CanPlaceFlowers.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/CanbePlaced.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="52" column="72" selection-start-line="52" selection-start-column="72" selection-end-line="52" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/AllPathsBetweenNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tryingsomething/_8Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Arrays/FisherYates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="false" />
-            <element signature="e#10148#10149#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/SortingAndSearching/CountingSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/SortingAndSearching/RadixSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Networking/ValidateIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="72" column="57" selection-start-line="72" selection-start-column="57" selection-end-line="72" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/TwoSumFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-534">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/DijkstraAlgo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Trees/SortedArrayToBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#157#158#0" expanded="false" />
-            <element signature="e#218#219#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/DynamicProgramming/KnightTour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-          <folding>
-            <element signature="e#5447#5448#0" expanded="false" />
-            <element signature="e#5487#5488#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Strings/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -2056,14 +1887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="953">
           <caret line="111" column="33" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/DetectAndRemoveLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2343,6 +2166,161 @@
             <element signature="e#2250#2260#0" expanded="true" />
             <element signature="e#2460#2466#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 10. Sorting and Searching/Q10_03_Search_in_Rotated_Array/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/BFSData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_02_Word_Frequencies/QuestionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/PositionIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 16. Moderate/Q16_20_T9/QuestionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 17. Hard/Q17_07_Baby_Names/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 17. Hard/Q17_07_Baby_Names/GraphNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 17. Hard/Q17_07_Baby_Names/NameSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 17. Hard/Q17_22_Word_Transformer/BFSData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 17. Hard/Q17_09_Kth_Multiple/QuestionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedInQuestions/Graphs/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/DetectAndRemoveLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java/Ch 05. Bit Manipulation/Q5_08_Draw_Line/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="46" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
