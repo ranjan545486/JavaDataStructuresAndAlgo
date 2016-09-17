@@ -178,4 +178,6 @@ public class LinkedList {
     }
 
 
+    public class T {
+    }
 }

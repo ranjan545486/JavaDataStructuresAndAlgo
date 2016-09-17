@@ -26,7 +26,7 @@ class AllPathBetweenTwoNodes{
     // when  the node is marked unvisited
     static int size;
 
-    public static void main (String ... args) throws IOException {
+    public static void main (String args) throws IOException {
 
         BufferedReader br = new BufferedReader (/*new FileReader("input.txt")*/new InputStreamReader((System.in)));
         for (int I = 1; I <= dim; I++) {

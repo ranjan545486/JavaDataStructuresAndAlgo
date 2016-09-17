@@ -39,6 +39,7 @@ public class RadixSort
         /** Accept number of elements **/
         System.out.println("Enter number of integer elements");
         n = scan.nextInt();
+
         /** Create integer array on n elements **/
         int arr[] = new int[ n ];
         /** Accept elements **/

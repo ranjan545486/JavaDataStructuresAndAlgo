@@ -12,7 +12,7 @@ public class twosumming {
         for(int i =0 ;i<numbers.length;i++){
             int x = numbers[i];
             if(map.containsKey(target - x)){
-                return new int[] { map.get(target - x)+1, i+1};
+                return new int[] { map.get(target - x), i};
             }
 
             map.put(x,i);

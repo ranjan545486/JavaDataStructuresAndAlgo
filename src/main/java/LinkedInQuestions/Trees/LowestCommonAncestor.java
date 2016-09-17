@@ -69,13 +69,52 @@ public class LowestCommonAncestor {
 
 
         int v1 = 1;
-        int v2 = 7;
+        int v2 = 3;
 
         Node vc = lca(tree, v1, v2);
         LowestCommonAncestor bt = new LowestCommonAncestor();
+        System.out.println(vc.data);
         bt.levelOrderNaiveApproach(vc);
 
 
 
     }
+
+
+
+    //the hashset way
+//    public int getCommonAncestorUsingParents(List<ArrayList<Integer>> graph, int source1, int source2){
+//        if(source1 >= graph.size() || source1 >= graph.size()) return Integer.MIN_VALUE;
+//        int ancestor = 0;
+//        Set<Integer> parentSource1 = new HashSet<Integer>();
+//        Set<Integer> parentSource2 = new HashSet<Integer>();
+//        while(source1 < Integer.MAX_VALUE && source2 < Integer.MAX_VALUE){
+//            if(source1 == source2) return source1;
+//            if(parentSource1.contains(source2)) return source2;
+//            if(parentSource2.contains(source1)) return source1;
+//            parentSource1.add(source1);
+//            parentSource2.add(source2);
+//            source1 = parent[source1];
+//            source2 = parent[source2];
+//        }
+//        if(source1 < Integer.MAX_VALUE){
+//            while(source1 < Integer.MAX_VALUE){
+//                if(source1 == source2) return source1;
+//                if(parentSource2.contains(source1)) return source1;
+//                parentSource1.add(source1);
+//                source1 = parent[source1];
+//            }
+//        } else {
+//            while(source2 < Integer.MAX_VALUE){
+//                if(source1 == source2) return source1;
+//                if(parentSource1.contains(source2)) return source2;
+//                parentSource2.add(source2);
+//                source2 = parent[source2];
+//            }
+//        }
+//        return ancestor;
+//    }
 }
+
+
+

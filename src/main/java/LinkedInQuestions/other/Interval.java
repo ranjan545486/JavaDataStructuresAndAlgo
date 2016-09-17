@@ -94,8 +94,8 @@ class IntervalCollection {
 
 public class Interval implements Comparable<Interval>
 {//Implemented Comparable just in case if we want to Sort the collection.
-    int lowerBound;
-    int upperBound;
+   public int lowerBound;
+    public int upperBound;
 
     public Interval(int lowerBound, int upperBound) {
         this.lowerBound = lowerBound;;

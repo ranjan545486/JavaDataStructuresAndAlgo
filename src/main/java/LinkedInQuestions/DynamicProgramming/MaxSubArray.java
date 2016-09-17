@@ -1,4 +1,4 @@
-package LinkedInQuestions.Arrays;
+package LinkedInQuestions.DynamicProgramming;
 
 /**
  *

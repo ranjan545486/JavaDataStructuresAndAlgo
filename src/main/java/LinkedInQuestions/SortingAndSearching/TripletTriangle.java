@@ -1,6 +1,7 @@
 package LinkedInQuestions.SortingAndSearching;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Vector;
 
@@ -198,6 +199,43 @@ class TriangleImpl implements Triangle{
         }
         return res;
     }
+
+    //================different solution==============
+    private static void printarri(int str[]) {
+        for (int i = 0; i < str.length; i++)
+            System.out.print("" + str[i] + " ");
+        System.out.println("");
+    }
+
+    private static String arrKey(int str[]) {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < str.length; i++)
+            sb.append(str[i]);
+        return sb.toString();
+    }
+
+    //Unique triplets
+    private static HashMap memo = new HashMap();
+    private static int NO_VALUE = -1;
+    public static void findTriplet(int a[], int idx, int k, int r[]) {
+        if (memo.containsKey(arrKey(r))) return;
+
+        if (r[2] >= 0) {
+            memo.put(arrKey(r), r);
+            printarri(r);
+            return;
+        }
+
+        if (idx > a.length - 1) return;
+
+        if (r[k] == NO_VALUE) {
+            r[k] = a[idx];
+            findTriplet(a, idx + 1, k + 1, r);
+            r[k] = NO_VALUE;
+            findTriplet(a, idx + 1, k, r);
+        }
+    }
+    //==============end different solution============
 
     public static void main(String a[]){
 

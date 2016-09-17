@@ -3,7 +3,7 @@ package LinkedInQuestions.Arrays;
 /**
  * Created by rmukherj on 8/12/16.
  */
-public class ArrayRotation {
+public class    ArrayRotation {
 
     public void rotateLeft(){
         int[] arr = {1,2,3,4,5,6,7,8};
@@ -68,12 +68,15 @@ public class ArrayRotation {
         ArrayRotation arr = new ArrayRotation();
         //arr.rotateLeft();
         //arr.optimizedRotateLeft();
-        //arr.optimizedRotateLeft();
+        arr.optimizedRotateLeft();
         int[] a = {1,2,3,4,5,6,7,8};
         arr.rotate(a,2);
         for(int j=0;j<a.length;j++){
             System.out.print(a[j]);
         }
+        a = new int[]{1,2,3,4,5,6,7,8};
+        arr.optimizedRotateLeft();
+
 
     }
 }

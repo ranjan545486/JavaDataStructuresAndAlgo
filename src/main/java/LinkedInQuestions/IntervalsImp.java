@@ -19,14 +19,50 @@ public class IntervalsImp implements Intervals {
     @Override
     public int getTotalCoveredLength() {
         Collections.sort(list);
+
         int totalLen = 0;
-        Point lastPoint = new Point(0,0);
-        for(Point point:list){
+        Point lastPoint = new Point(0, 0);
+
+        for (Point point : list) {
+
+            if (point.x > lastPoint.y) {   //located apart
+                totalLen += point.y - point.x;
+                lastPoint = point;
+
+            } else if (point.x == lastPoint.x && lastPoint.y < point.y) { //start from same origin
+
+                totalLen += point.y - lastPoint.y;
+
+                lastPoint = point;
+
+
+            } else if (point.x < lastPoint.y && point.y > lastPoint.y) { //in between
+                totalLen += point.y - lastPoint.y;
+                lastPoint = point;
+            }
+
 
         }
 
-        return 0;
+        return totalLen;
     }
+    public static void main(String... args) {
+        IntervalsImp obj = new IntervalsImp();
+//        obj.addInterval(3, 6);
+//        obj.addInterval(8, 9);
+//        obj.addInterval(1, 5);
+//        obj.addInterval(1, 3);
+//        obj.addInterval(1, 8);
+//        obj.addInterval(3, 10);
+//        obj.addInterval(15, 25);
+obj.addInterval(1,3);
+        obj.addInterval(2,5);
+        obj.addInterval(8,9);
+
+        System.out.println(obj.getTotalCoveredLength());
+    }
+
+
 }
 
 class Point implements Comparable<Point> {

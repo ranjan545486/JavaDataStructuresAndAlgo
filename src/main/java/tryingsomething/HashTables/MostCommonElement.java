@@ -1,4 +1,4 @@
-package tryingsomething.Hashing;
+package tryingsomething.HashTables;
 
 import java.util.HashMap;
 import java.util.Map;

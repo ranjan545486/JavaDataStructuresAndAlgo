@@ -14,6 +14,19 @@ public class OperationsUsingBinary {
 
     }
 
+    public static int CheckTest(int a, int b){
+        if (a>5 && b>5){
+            System.out.println("ranjan wins");
+            return a;
+        } else if (a>5 || b>5 ){
+            System.out.println("brandon wins");
+            return a+b;
+        }
+
+        return 0;
+
+    }
+
     public static int Sub(int a, int b)
     {
         int x = ~b;
@@ -165,6 +178,7 @@ public class OperationsUsingBinary {
         System.out.println(ob.Sub((int)a,(int)b));
         System.out.println(powerBinary(5,-3));
         System.out.println(ob.pow(5,-3));
+        System.out.println(ob.CheckTest(6,7));
 
 
     }
