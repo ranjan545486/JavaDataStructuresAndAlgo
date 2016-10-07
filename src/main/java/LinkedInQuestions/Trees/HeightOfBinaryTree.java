@@ -10,9 +10,9 @@ package LinkedInQuestions.Trees;
  */
 public class HeightOfBinaryTree {
     public class Node {
-        int data;
-       Node left;
-       Node right;
+       public int data;
+       public Node left;
+       public Node right;
     }
 
     int height(Node root)

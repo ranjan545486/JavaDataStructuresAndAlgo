@@ -27,7 +27,8 @@ public class SubArrayPosition {
         out[0] = -1;
         out[1] = -1;
 
-        //error case: either of the arrays are null, subarray length is more than main array
+        //error case: either of the arrays are null,
+        // subarray length is more than main array
         if(null == a1 || null == a2 || a2.length >a1.length){
             return out;
         }
@@ -38,7 +39,8 @@ public class SubArrayPosition {
             if(a1[i] != a2[startIndex]){
                 continue;
             } else {
-                //first element of subarray is matched; iterate over the rest and check.
+                //first element of subarray is matched;
+                // iterate over the rest and check.
                 startIndex = i;
                 while(j<a2.length && i<a1.length){
                    if(a2[j] != a1[i]){

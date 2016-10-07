@@ -42,7 +42,7 @@ public class AddTwoLinkedList {
     public static void main(String[] args) {
         AddTwoLinkedList addTwo = new AddTwoLinkedList();
         ListNode l1 = new ListNode(2);
-        l1.next = new ListNode(4);
+        l1.next = new ListNode(50);
         l1.next.next = new ListNode(3);
 
         ListNode l2 = new ListNode(5);
